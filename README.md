@@ -7,7 +7,7 @@ This project provides a simple API client to login to Instagram using username a
 - Login to Instagram using username and password.
 - Supports proxy configuration.
 - Handles headers and cookies during login.
-
+ 
 ## Prerequisites
 
 Make sure you have the following installed:
