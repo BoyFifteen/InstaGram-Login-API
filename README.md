@@ -13,4 +13,4 @@ This project provides a simple API client to login to Instagram using username a
 Make sure you have the following installed:
 
 - [Python](https://www.python.org/downloads/) (v3.7 or later)
-- [Requests](https://pypi.org/project/requests/) library for HTTP requests (can be installed using `pip`).
+- [Requests](https://pypi.org/project/requests/) library for HTTP requests (can be installed using `pip`). 
